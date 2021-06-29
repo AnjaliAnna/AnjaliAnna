@@ -16,7 +16,7 @@ Here are some ideas to get you started:-->
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliAnna&layout=compact&theme=vision-friendly-dark)](https://github.com/AnjaliAnna/github-readme-stats)
 <br/>
-[![Anjali's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Anjali)](https://github.com/AnjaliAnna/github-readme-stats)
+[![Anjali's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Anjali&layout=compact&theme=vision-friendly-dark)](https://github.com/AnjaliAnna/github-readme-stats)
 ## <p align="center">Find me on</p>
 <p align="center">
 <a href="https://www.hackerrank.com/anjaliannapeter4" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" height="40" width="40" padding="5px"/></a>
