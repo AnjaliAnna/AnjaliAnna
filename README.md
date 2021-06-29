@@ -14,4 +14,4 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about ...
 - 📫 How to reach me: ...-->
 [![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnjaliAnna&count_private=true&show_icons=true&theme=dark)](https://github.com/AnjaliAnna/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliAnna)](https://github.com/AnjaliAnna/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliAnna&layout=compact&theme=dark)](https://github.com/AnjaliAnna/github-readme-stats)
