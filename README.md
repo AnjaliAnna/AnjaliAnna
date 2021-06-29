@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Anjali![image](https://user-images.githubusercontent.com/57408523/123737298-51a4b000-d8c0-11eb-9597-514f6adf074f.png)
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Anjali :woman_technologist:
 
 <!--
 **AnjaliAnna/AnjaliAnna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
