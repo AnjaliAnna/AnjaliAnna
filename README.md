@@ -15,3 +15,9 @@ Here are some ideas to get you started:-->
 [![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnjaliAnna&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/AnjaliAnna/github-readme-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliAnna&layout=compact&theme=vision-friendly-dark)](https://github.com/AnjaliAnna/github-readme-stats)
+## Find me on
+<p align="center">
+<a href="https://www.hackerrank.com/anjaliannapeter4" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" height="20" width="30" /></a>
+<a href="www.linkedin.com/in/anjaliannapeter" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin" height="20" width="30" /></a>
+ <a href = "mailto: anjaliannapeter4@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="20" width="30" /></a>
+</p>
