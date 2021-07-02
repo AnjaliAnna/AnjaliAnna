@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ..
 - 📫 How to reach me: ...-->
-[![Anjali's GitHub stats](https://github-readme-stats-anjalianna.vercel.app/api?username=AnjaliAnna&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/AnjaliAnna/github-readme-stats)
+[![Anjali's GitHub stats](https://github-readme-stats-anjalianna.vercel.app/api?username=AnjaliAnna&count_private=true&show_icons=true&theme=vision-friendly-dark&v=2)](https://github.com/AnjaliAnna/github-readme-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliAnna&layout=compact&theme=vision-friendly-dark&langs_count=8&v=2)](https://github.com/AnjaliAnna/github-readme-stats)
 <br/>
