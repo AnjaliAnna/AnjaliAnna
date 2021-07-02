@@ -14,7 +14,7 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: ...-->
 [![Anjali's GitHub stats](https://github-readme-stats-anjalianna.vercel.app/api?username=AnjaliAnna&count_private=true&show_icons=true&theme=vision-friendly-dark)]
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliAnna&layout=compact&theme=vision-friendly-dark)](https://github.com/AnjaliAnna/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliAnna&layout=compact&theme=vision-friendly-dark&v=2)](https://github.com/AnjaliAnna/github-readme-stats)
 <br/>
 [![Anjali's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Anjali&layout=compact&theme=vision-friendly-dark&v=2)](https://github.com/AnjaliAnna/github-readme-stats)
 ## <p align="center">Find me on</p>
