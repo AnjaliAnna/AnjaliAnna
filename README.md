@@ -17,6 +17,13 @@ Here are some ideas to get you started:-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliAnna&layout=compact&theme=vision-friendly-dark&langs_count=8&v=2)](https://github.com/AnjaliAnna/github-readme-stats)
 <br/>
 [![Anjali's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Anjali&layout=compact&theme=vision-friendly-dark&v=2)](https://github.com/AnjaliAnna/AnjaliAnna)
+## <p align="center">Frameworks</p>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
+<img alt="Django" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
 ## <p align="center">Find me on</p>
 <p align="center">
 <a href="https://www.hackerrank.com/anjaliannapeter4" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" height="40" width="40" padding="5px"/></a>
