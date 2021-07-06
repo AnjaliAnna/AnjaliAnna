@@ -29,5 +29,5 @@ Here are some ideas to get you started:-->
 <a href="https://www.linkedin.com/in/anjaliannapeter" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin" height="30" width="30"/></a>
 <!-- <a href = "mailto: anjaliannapeter4@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="20"  padding="5px"/></a>-->
 </p>
-[![visits](https://github-visit-counter.herokuapp.com/{AnjaliAnna}/{repo}/visits.svg)](#)
+[![visits](https://github-visit-counter.herokuapp.com/{AnjaliAnna}/{AnjaliAnna}/visits.svg)](#)
 
