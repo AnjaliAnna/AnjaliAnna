@@ -17,6 +17,7 @@ Here are some ideas to get you started:-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliAnna&layout=compact&theme=vision-friendly-dark&langs_count=8&v=2)](https://github.com/AnjaliAnna/github-readme-stats)
 <br/>
 [![Anjali's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Anjali&layout=compact&theme=vision-friendly-dark&v=2)](https://github.com/AnjaliAnna/AnjaliAnna)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anjali&theme=onedark&v=2)](https://github.com/AnjaliAnna/github-profile-trophy)
 ## <p align="left">Languages</p>
 <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 ## <p align="left">Frameworks</p>
@@ -29,4 +30,3 @@ Here are some ideas to get you started:-->
 <a href="https://www.linkedin.com/in/anjaliannapeter" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin" height="30" width="30"/></a>
 <!-- <a href = "mailto: anjaliannapeter4@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="20"  padding="5px"/></a>-->
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anjali&theme=onedark)](https://github.com/AnjaliAnna/github-profile-trophy)
