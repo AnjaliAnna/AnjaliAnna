@@ -26,7 +26,7 @@ Here are some ideas to get you started:-->
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><img alt="KaliLinux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 ## <p align="center">Find me on</p>
 <p align="center">
-<a href="https://www.hackerrank.com/anjaliannapeter4" target="blank"><img align="center" src="https://simpleicons.org/?q=hackerr" alt="hackerrank" height="40" width="40" padding="5px"/></a>
+<a href="https://www.hackerrank.com/anjaliannapeter4" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" height="40" width="40" padding="5px"/></a>
 <a href="https://www.linkedin.com/in/anjaliannapeter" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin" height="30" width="30"/></a>
 <!-- <a href = "mailto: anjaliannapeter4@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="20"  padding="5px"/></a>-->
 </p>
