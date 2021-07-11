@@ -20,20 +20,24 @@ Here are some ideas to get you started:-->
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=AnjaliAnna&theme=juicyfresh)](https://github.com/AnjaliAnna/github-profile-trophy)-->
 ## <p align="left">Languages</p>
 <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=yellow"/><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+
 ## <p align="left">Frameworks</p>
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
 ## <p align="left">Os</p>
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><img alt="KaliLinux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+
+
+
+## <p align="center">Web Projects</p>
+<ul>
+<li><a href="https://anji-weather-app.netlify.app/">Weather App</a>
+<li><a href="https://practical-engelbart-1a9087.netlify.app/">Netflix clone</a>
+</ul>
+
 ## <p align="center">Find me on</p>
 <p align="center">
 <a href="https://www.hackerrank.com/anjaliannapeter4" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" height="40" width="40" padding="5px"/></a>
 <a href="https://www.linkedin.com/in/anjaliannapeter" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin" height="30" width="30"/></a>
 <!-- <a href = "mailto: anjaliannapeter4@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="20"  padding="5px"/></a>-->
-</p>
-## <p align="center">Web Projects</p>
-<p align="center">
-<ul>
-<li><a href="https://anji-weather-app.netlify.app/">Weather App</a>
-<li><a href="https://practical-engelbart-1a9087.netlify.app/">Netflix clone</a>
-</ul>
 </p>
