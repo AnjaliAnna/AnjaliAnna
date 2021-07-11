@@ -31,9 +31,9 @@ Here are some ideas to get you started:-->
 <!-- <a href = "mailto: anjaliannapeter4@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="20"  padding="5px"/></a>-->
 </p>
 ## <p align="center">Web Projects</p>
-<div align="center">
+<p align="center">
 <ul>
 <li><a href="https://anji-weather-app.netlify.app/">Weather App</a>
 <li><a href="https://practical-engelbart-1a9087.netlify.app/">Netflix clone</a>
 </ul>
-</div>
+</p>
