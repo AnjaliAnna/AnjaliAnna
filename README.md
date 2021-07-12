@@ -31,8 +31,8 @@ Here are some ideas to get you started:-->
 
 ## <p align="center">Web Projects</p>
 <ul>
-<li><a href="https://anjalianna.github.io/Weather-App/">Weather App</a>
-<li><a href="https://practical-engelbart-1a9087.netlify.app/">Netflix clone</a>
+<li><h2><a href="https://anjalianna.github.io/Weather-App/">Weather App</a></h2>
+  <li><h2><a href="https://practical-engelbart-1a9087.netlify.app/">Netflix clone</a></h2>
 </ul>
 
 ## <p align="center">Find me on</p>
