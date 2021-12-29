@@ -4,7 +4,7 @@
 **AnjaliAnna/AnjaliAnna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-- 🔭 I’m currently working on a movie ticket booking system web app
+- 🔭 I’m currently working on a Dubious activity detection model
 - 🌱 I’m currently learning machine learning with python
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: The first programmer was the daughter of a mad poet!
